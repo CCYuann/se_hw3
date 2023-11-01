@@ -1,7 +1,7 @@
 #　HomeWork#1 from  01057133張晉源HW#1.py
 
 # 定義 List
-list = [12, 60, 15, 70, 90]
+list = [12, 60, 15, 70, 90,23]
 
 # 1. 顯示 List 的內容與長度
 print(list,"的長度為:",len(list))
